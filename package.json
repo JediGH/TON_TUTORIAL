@@ -1,0 +1,13 @@
+{
+  "name": "my_first_contract",
+  "version": "1.0.0",
+  "description": "Первый проект в ТОН",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@swc/core": "^1.7.26",
+    "@types/node": "^22.5.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
