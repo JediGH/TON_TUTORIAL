@@ -1,2 +1,2 @@
-# TON_TUTORIAL
+# TON TUTORIAL
 Тестовый репозиторий для проекта на TON
